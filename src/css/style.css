@@ -6,12 +6,6 @@
 }
 
 @font-face {
-    font-family: 'Aero';
-    src: url('/src/fonts/Aero.ttf');
-}
-
-
-@font-face {
     font-family: 'NFS';
     src: url('/src/fonts/NFS.ttf');
 }
